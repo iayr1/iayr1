@@ -1,4 +1,4 @@
-<div align="center">  <img src="https://github.com/iayr1/iayr1/blob/main/myo_dimensions_cover.jpg?raw=true" alt="Mayur Chaudhari Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);" /></div>
+<div align="center">  <img src="https://github.com/iayr1/iayr1/blob/main/myo_dimensions_cover.png?raw=true" alt="Mayur Chaudhari Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);" /></div>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Business+Transformation+Manager;Agentic+AI+%26+RAG+Systems+Builder;LLM+Automation+Engineer;Turning+Business+Processes+into+Intelligent+Workflows" alt="typing animation"/>
 
