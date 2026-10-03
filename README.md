@@ -1,106 +1,198 @@
-<div align="center">  <img src="https://github.com/iayr1/iayr1/blob/main/my_dimensions.cover.png?raw=true" alt="Mayur Chaudhari Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);" /></div>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Business+Transformation+Manager;Agentic+AI+%26+RAG+Systems+Builder;LLM+Automation+Engineer;Turning+Business+Processes+into+Intelligent+Workflows" alt="typing animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00d9ff&height=260&section=header&text=Mayur%20Chaudhari&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20%26%20Business%20Transformation&descSize=22&descAlignY=58&animation=fadeIn" alt="Mayur Chaudhari" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=45&lines=AI+Business+Transformation+Manager;Agentic+AI+%26+RAG+Systems+Builder;LLM+Automation+Engineer;Turning+Business+Processes+into+Intelligent+Workflows" alt="typing animation"/>
+
+<br/><br/>
+
+<a href="#about">About</a> &nbsp;•&nbsp;
+<a href="#experience">Experience</a> &nbsp;•&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#github-stats">Stats</a> &nbsp;•&nbsp;
+<a href="#education--achievements">Education</a> &nbsp;•&nbsp;
+<a href="#connect">Connect</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=iayr1&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=0a0a0a" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/iayr1?style=for-the-badge&color=00d9ff&labelColor=0a0a0a&logo=github" alt="github followers"/>
 
 </div>
 
----
-
-### 👋 About Me
-
-I'm an AI Business Transformation professional focused on **Agentic AI**, **Generative AI**, and **enterprise automation**. I design and ship autonomous AI systems, RAG applications, and workflow-automation platforms that make real business processes faster and smarter — currently doing this at **EDGE**.
-
-- 🏢 Currently: **AI Systems & Business Transformation Manager @ EDGE**
-- 🌱 Studying: M.Sc. Data Science (Dr. Babasaheb Ambedkar Open University)
-- 🎓 B.E. in Artificial Intelligence & Machine Learning — MET Institute of Engineering, Nashik
-- 📍 Based in Mumbai, India
-- 📫 Reach me at **mayuraimaker@gmail.com**
-
----
-
-### 💼 Experience
-
-**AI Systems & Business Transformation Manager** — *EDGE*
-`July 2026 – Present`
-- Leading AI transformation initiatives, identifying automation opportunities across business functions
-- Designing and deploying enterprise AI solutions using LLMs, Agentic AI, and workflow-automation platforms
-- Partnering with stakeholders on AI-powered process optimization and digital transformation programs
-
-**AI Automation Engineer / LLM Engineer** — *Colage Communication*
-`July 2025 – July 2026`
-- Built LLM-powered automation systems integrating APIs, tools, and business workflows
-- Developed RAG applications and agentic AI workflows using LangChain & LangGraph
-- Automated business processes with n8n, Make, Zapier, FastAPI, and cloud services
-
-**Junior Flutter Developer (AI Chatbot Developer)** — *Eazr Digipayments*
-`June 2024 – July 2025`
-- Developed AI chatbot features for fintech applications using LLM technologies
-- Built OCR and NLP solutions for KYC document extraction and automation
-- Designed APIs and integrated AI services into Flutter applications
-
-**Full Stack Developer** — *Shareshiksha*
-`April 2023 – May 2024`
-- Built AI-powered recommendation features using embeddings and similarity search
-- Developed backend APIs and automation solutions for an educational platform
-- Integrated AI capabilities into Flutter applications
-
----
-
-### 🛠️ Tech Stack
-
-**AI & GenAI**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
 
-**Automation**
+## About
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm an AI Business Transformation professional focused on **Agentic AI**, **Generative AI**, **CRM**, and **enterprise automation**.
+
+I design and ship autonomous AI systems, RAG applications, and workflow-automation platforms that make real business processes faster and smarter, and I currently do this at **EDGE**.
+
+</td>
+<td width="38%" valign="top">
+
+| | |
+|:--|:--|
+| **Role** | AI Systems & Business Transformation Manager, EDGE |
+| **Studying** | M.Sc. Data Science, BAOU |
+| **Degree** | B.E. AI & ML, MET Nashik |
+| **Location** | Mumbai, India |
+| **Email** | mayuraimaker@gmail.com |
+
+</td>
+</tr>
+</table>
+
 <br/>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square)
 
-**Backend & Cloud**
+## Experience
+
+<table>
+<tr>
+<td width="22%" valign="top">
+
+**Jul 2026 – Present**
+
+</td>
+<td valign="top">
+
+**AI Systems & Business Transformation Manager**
+*EDGE*
+
+- Lead AI, CRM, automation, and digital transformation initiatives, translating business requirements into scalable technology solutions
+- Led end-to-end transformation of offline business operations into Zoho CRM, digitizing manual workflows and centralizing business processes and customer data
+- Design CRM architecture across inquiries, leads, customers, sales pipelines, follow-ups, and operations; manage Zoho CRM and work with Salesforce for CRM processes and integrations
+- Identify Generative AI and Agentic AI use cases for customer profiling, lead qualification, sales automation, decision support, and operational efficiency
+- Bridge management, sales, marketing, operations, and technology teams to drive adoption of AI-enabled business processes
+
+</td>
+</tr>
+<tr>
+<td width="22%" valign="top">
+
+**Apr 2023 – Jul 2026**
+
+</td>
+<td valign="top">
+
+**Senior AI Engineer / Agentic AI – Automation**
+*Colage Communication*
+
+- Designed LLM, Agentic AI, RAG, and intelligent automation solutions integrating business workflows, APIs, data, and external systems
+- Built AI orchestration and multi-step automation using LangChain, LangGraph, n8n, Make, Zapier, FastAPI, and webhooks
+- Translated business and product requirements into scalable AI solutions, building the technical foundation for AI transformation leadership
+
+</td>
+</tr>
+<tr>
+<td width="22%" valign="top">
+
+**Aug 2020 – Dec 2022**
+
+</td>
+<td valign="top">
+
+**Flutter Developer (Chatbot Developer)**
+*Eazr Digipayments Pvt Ltd*
+
+- Built an AI-driven chatbot to assist insurance agents by answering policy and customer queries instantly, reducing manual support effort
+- Developed personal loan mobile applications in Flutter covering onboarding, application flows, and customer-facing journeys for Android and iOS
+- Created conversational chatbots and cross-platform mobile apps, integrating REST APIs and backend services for fintech and insurance use cases
+- Collaborated with product, backend, and business teams to deliver features, fix bugs, and ship app releases
+
+</td>
+</tr>
+</table>
+
 <br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Frontend**
+## Tech Stack
+
+<table>
+<tr>
+<td width="20%"><b>AI & GenAI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG"/>
+</td>
+</tr>
+<tr>
+<td><b>Automation & CRM</b></td>
+<td>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge" alt="Make"/>
+<img src="https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend & Cloud</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Bedrock"/>
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</td>
+</tr>
+</table>
+
 <br/>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
----
+## Featured Projects
 
-### 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🧠 Enterprise AI Sales Automation Agent**
-Autonomous AI agents for lead qualification, follow-ups, and CRM automation — LLMs wired into business workflows via APIs, n8n, and webhooks.
+### Enterprise AI Sales Automation Agent
+Autonomous AI agents for lead qualification, follow-ups, and CRM automation, with LLMs wired into business workflows via APIs, n8n, and webhooks.
 
-**📚 RAG-Based Knowledge Assistant**
+</td>
+<td width="50%" valign="top">
+
+### RAG-Based Knowledge Assistant
 Enterprise question-answering system built on embeddings and vector databases, with contextual retrieval pipelines for accurate, grounded responses.
 
-**🤝 Multi-Agent AI System**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Multi-Agent AI System
 Planner, executor, and reviewer agents built with LangGraph, enabling autonomous task decomposition, validation, and execution.
 
-**✍️ AI Content Automation Pipeline**
-End-to-end automated content generation for blogs and social media — from topic input straight through to publishing.
+</td>
+<td width="50%" valign="top">
 
----
+### AI Content Automation Pipeline
+End-to-end automated content generation for blogs and social media, from topic input straight through to publishing.
 
-### 📊 GitHub Stats
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
@@ -111,18 +203,18 @@ End-to-end automated content generation for blogs and social media — from topi
 
 </div>
 
----
+<br/>
 
-### 🏆 Education & Achievements
+## Education & Achievements
 
-| 🎓 Education | 📜 Certifications | 🏸 Achievement |
-|---|---|---|
-| B.E. AI & ML — MET Institute of Engineering, Nashik (2019–2023) | AI Internship — Cognifront (2022) | Ball Badminton, State-Level Winner (2014) |
-| M.Sc. Data Science (2025–2027) — Dr. Babasaheb Ambedkar Open University | Data Science Internship — LetsGrowMore (2022) | |
+| Education | Certifications | Achievement |
+|:--|:--|:--|
+| **B.E. AI & ML**<br/>MET Institute of Engineering, Nashik (2019–2023) | **AI Internship**<br/>Cognifront (2022) | **Ball Badminton**<br/>State-Level Winner (2014) |
+| **M.Sc. Data Science** (2025–2027)<br/>Dr. Babasaheb Ambedkar Open University | **Data Science Internship**<br/>LetsGrowMore (2022) | |
 
----
+<br/>
 
-### 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -131,10 +223,6 @@ End-to-end automated content generation for blogs and social media — from topi
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayuro.in)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iayr1)
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=75" alt="footer banner" width="100%"/>
 
 </div>
