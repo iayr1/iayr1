@@ -1,42 +1,58 @@
 <div align="center">
 
-# Mayur Chaudhari
+# MAYUR CHAUDHARI
 
-**AI Systems & Business Transformation**
+### AI Systems & Business Transformation
 
-AI Business Transformation Manager • Agentic AI & RAG Systems Builder • LLM Automation Engineer
+**AI Business Transformation Manager · Agentic AI · Generative AI · RAG · Enterprise Automation**
 
 <br/>
 
-<a href="#about">About</a> &nbsp;•&nbsp;
-<a href="#experience">Experience</a> &nbsp;•&nbsp;
-<a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-<a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
-<a href="#education--achievements">Education</a> &nbsp;•&nbsp;
-<a href="#connect">Connect</a>
+[About](#about) ·
+[Experience](#experience) ·
+[Tech Stack](#tech-stack) ·
+[Projects](#featured-projects) ·
+[Education](#education--achievements) ·
+[Connect](#connect)
+
+<br/><br/>
 
 </div>
 
-<br/>
+---
 
 ## About
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-I'm an AI Business Transformation professional focused on **Agentic AI**, **Generative AI**, **CRM**, and **enterprise automation**.
+### Building AI Systems for Real Business Problems
 
-I design and ship autonomous AI systems, RAG applications, and workflow-automation platforms that make real business processes faster and smarter, and I currently do this at **EDGE**.
+I'm an **AI Business Transformation professional** focused on **Agentic AI, Generative AI, RAG, CRM, and enterprise automation**.
+
+I design and implement intelligent systems that connect **LLMs, business workflows, APIs, CRM platforms, and automation tools** to transform manual processes into scalable digital operations.
+
+Currently working at **EDGE**, where I focus on AI-led business transformation, CRM architecture, automation, and identifying opportunities to integrate AI into real-world business processes.
+
+<br/>
+
+**Core Focus**
+
+`Agentic AI` · `LLM Systems` · `RAG` · `CRM Automation` · `AI Agents` · `Business Transformation`
 
 </td>
-<td width="38%" valign="top">
+
+<td width="40%" valign="top">
+
+### Profile
 
 | | |
 |:--|:--|
-| **Role** | AI Systems & Business Transformation Manager, EDGE |
-| **Studying** | M.Sc. Data Science, BAOU |
-| **Degree** | B.E. AI & ML, MET Nashik |
+| **Current Role** | AI Systems & Business Transformation Manager |
+| **Company** | EDGE |
+| **Specialization** | Agentic AI & Automation |
+| **Education** | M.Sc. Data Science |
 | **Location** | Mumbai, India |
 | **Email** | mayurailead@gmail.com |
 
@@ -44,131 +60,286 @@ I design and ship autonomous AI systems, RAG applications, and workflow-automati
 </tr>
 </table>
 
-<br/>
+---
 
 ## Experience
 
-<table>
-<tr>
-<td width="22%" valign="top">
+### EDGE
 
-**Jul 2026 – Present**
+**AI Systems & Business Transformation Manager**  
+`Jul 2026 – Present`
 
-</td>
-<td valign="top">
+> AI · CRM · Automation · Digital Transformation
 
-**AI Systems & Business Transformation Manager**
-*EDGE*
-
-- Lead AI, CRM, automation, and digital transformation initiatives, translating business requirements into scalable technology solutions
-- Led end-to-end transformation of offline business operations into Zoho CRM, digitizing manual workflows and centralizing business processes and customer data
-- Design CRM architecture across inquiries, leads, customers, sales pipelines, follow-ups, and operations; manage Zoho CRM and work with Salesforce for CRM processes and integrations
-- Identify Generative AI and Agentic AI use cases for customer profiling, lead qualification, sales automation, decision support, and operational efficiency
-- Bridge management, sales, marketing, operations, and technology teams to drive adoption of AI-enabled business processes
-
-</td>
-</tr>
-<tr>
-<td width="22%" valign="top">
-
-**Apr 2023 – Jul 2026**
-
-</td>
-<td valign="top">
-
-**Senior AI Engineer / Agentic AI – Automation**
-*Colage Communication*
-
-- Designed LLM, Agentic AI, RAG, and intelligent automation solutions integrating business workflows, APIs, data, and external systems
-- Built AI orchestration and multi-step automation using LangChain, LangGraph, n8n, Make, Zapier, FastAPI, and webhooks
-- Translated business and product requirements into scalable AI solutions, building the technical foundation for AI transformation leadership
-
-</td>
-</tr>
-<tr>
-<td width="22%" valign="top">
-
-**Aug 2020 – Dec 2022**
-
-</td>
-<td valign="top">
-
-**Flutter Developer (Chatbot Developer)**
-*Eazr Digipayments Pvt Ltd*
-
-- Built an AI-driven chatbot to assist insurance agents by answering policy and customer queries instantly, reducing manual support effort
-- Developed personal loan mobile applications in Flutter covering onboarding, application flows, and customer-facing journeys for Android and iOS
-- Created conversational chatbots and cross-platform mobile apps, integrating REST APIs and backend services for fintech and insurance use cases
-- Collaborated with product, backend, and business teams to deliver features, fix bugs, and ship app releases
-
-</td>
-</tr>
-</table>
+- Lead AI, CRM, automation, and digital transformation initiatives, translating business requirements into scalable technology solutions.
+- Led the transformation of offline business operations into **Zoho CRM**, digitizing manual workflows and centralizing customer and operational data.
+- Design CRM architecture covering **inquiries, leads, customers, sales pipelines, follow-ups, and operations**.
+- Work across **Zoho CRM and Salesforce** for CRM processes, integrations, and automation.
+- Identify and implement **Generative AI and Agentic AI** use cases for customer profiling, lead qualification, sales automation, decision support, and operational efficiency.
+- Bridge management, sales, marketing, operations, and technology teams to drive adoption of AI-enabled business processes.
 
 <br/>
+
+### Colage Communication
+
+**Senior AI Engineer / Agentic AI – Automation**  
+`Apr 2023 – Jul 2026`
+
+> AI Engineering · LLMs · Agentic AI · RAG · Automation
+
+- Designed **LLM, Agentic AI, RAG, and intelligent automation systems** connecting business workflows, APIs, data, and external platforms.
+- Built AI orchestration and multi-step automation using **LangChain, LangGraph, n8n, Make, Zapier, FastAPI, and Webhooks**.
+- Developed AI-powered solutions for business automation, content generation, workflow orchestration, and intelligent decision support.
+- Translated business and product requirements into scalable AI architectures and production-ready solutions.
+- Worked across the complete AI application lifecycle, from **solution design and prototyping to API integration and deployment**.
+
+<br/>
+
+### Eazr Digipayments Pvt. Ltd.
+
+**Flutter Developer / Chatbot Developer**  
+`Aug 2020 – Dec 2022`
+
+> FinTech · InsurTech · Mobile Applications · Conversational AI
+
+- Built an **AI-powered chatbot** for insurance agents to answer policy and customer queries, reducing dependency on manual support.
+- Developed personal loan mobile applications using **Flutter and Dart**, covering onboarding, application flows, and customer-facing journeys.
+- Built conversational chatbot experiences and cross-platform mobile applications for **Android and iOS**.
+- Integrated REST APIs and backend services for fintech and insurance applications.
+- Collaborated with product, backend, and business teams to develop features, resolve issues, and deliver application releases.
+
+---
 
 ## Tech Stack
 
-| Category | Technologies |
-|:--|:--|
-| **AI & GenAI** | Python, LangChain, LangGraph, RAG |
-| **Automation & CRM** | n8n, Zapier, Make, Zoho CRM, Salesforce |
-| **Backend & Cloud** | FastAPI, PostgreSQL, MongoDB, AWS Bedrock, Vertex AI, Docker |
-| **Frontend** | Flutter, Dart, React, Streamlit |
+### Artificial Intelligence
 
-<br/>
+<p align="left">
+
+`Python` `LangChain` `LangGraph` `RAG` `LLMs` `Agentic AI` `Vector Databases`
+
+</p>
+
+### Automation & CRM
+
+<p align="left">
+
+`n8n` `Zapier` `Make` `Zoho CRM` `Salesforce` `Webhooks` `API Integration`
+
+</p>
+
+### Backend & Cloud
+
+<p align="left">
+
+`FastAPI` `PostgreSQL` `MongoDB` `Docker` `AWS Bedrock` `Vertex AI`
+
+</p>
+
+### Application Development
+
+<p align="left">
+
+`Flutter` `Dart` `React` `Streamlit`
+
+</p>
+
+---
 
 ## Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Enterprise AI Sales Automation Agent
-Autonomous AI agents for lead qualification, follow-ups, and CRM automation, with LLMs wired into business workflows via APIs, n8n, and webhooks.
+
+An autonomous AI system designed to automate sales operations across the complete lead lifecycle.
+
+**Capabilities**
+
+- AI-powered lead qualification
+- Customer profiling
+- Automated follow-ups
+- CRM updates
+- Workflow orchestration
+- API and webhook integrations
+
+**Stack**
+
+`LLMs` `n8n` `Zoho CRM` `APIs` `Webhooks`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### RAG-Based Knowledge Assistant
-Enterprise question-answering system built on embeddings and vector databases, with contextual retrieval pipelines for accurate, grounded responses.
+
+An enterprise question-answering system designed to retrieve relevant information from internal knowledge sources before generating responses.
+
+**Capabilities**
+
+- Document ingestion
+- Embedding generation
+- Semantic search
+- Context retrieval
+- Grounded response generation
+
+**Stack**
+
+`Python` `RAG` `Embeddings` `Vector DB` `LLMs`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### Multi-Agent AI System
-Planner, executor, and reviewer agents built with LangGraph, enabling autonomous task decomposition, validation, and execution.
+
+A multi-agent architecture where specialized agents collaborate to plan, execute, validate, and complete complex tasks.
+
+**Architecture**
+
+`Planner → Executor → Reviewer`
+
+**Capabilities**
+
+- Task decomposition
+- Autonomous execution
+- Result validation
+- Multi-step reasoning
+- Agent orchestration
+
+**Stack**
+
+`LangGraph` `LLMs` `Python`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### AI Content Automation Pipeline
-End-to-end automated content generation for blogs and social media, from topic input straight through to publishing.
+
+An end-to-end automation pipeline that transforms a content idea into publish-ready content.
+
+**Workflow**
+
+`Topic → Research → Generation → Review → Publishing`
+
+**Capabilities**
+
+- Automated content generation
+- AI-assisted research
+- Content refinement
+- Workflow automation
+- Automated publishing
+
+**Stack**
+
+`LLMs` `n8n` `APIs` `Automation`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### AI Agents
+
+Autonomous systems that can reason, plan, use tools, and execute multi-step tasks.
+
+</td>
+
+<td width="33%" align="center">
+
+### RAG Systems
+
+Knowledge systems that combine retrieval, vector search, and LLMs to provide contextual answers.
+
+</td>
+
+<td width="33%" align="center">
+
+### Business Automation
+
+AI-powered workflows that connect people, systems, CRM platforms, APIs, and business processes.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
 ## Education & Achievements
 
-| Education | Certifications | Achievement |
-|:--|:--|:--|
-| **B.E. AI & ML**<br/>MET Institute of Engineering, Nashik (2019–2023) | **AI Internship**<br/>Cognifront (2022) | **Ball Badminton**<br/>State-Level Winner (2014) |
-| **M.Sc. Data Science** (2025–2027)<br/>Dr. Babasaheb Ambedkar Open University | **Data Science Internship**<br/>LetsGrowMore (2022) | |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Education
+
+**M.Sc. Data Science**  
+Dr. Babasaheb Ambedkar Open University  
+`2025 – 2027`
 
 <br/>
 
-## Connect
+**B.E. Artificial Intelligence & Machine Learning**  
+MET Institute of Engineering, Nashik  
+`2019 – 2023`
 
-<div align="center">
+</td>
 
-[LinkedIn](https://linkedin.com/in/iayr1) &nbsp;•&nbsp;
-[Email](mailto:mayurailead@gmail.com) &nbsp;•&nbsp;
-[Portfolio](https://mayuro.in) &nbsp;•&nbsp;
-[GitHub](https://github.com/iayr1)
+<td width="50%" valign="top">
 
-</div>
+### Certifications & Achievements
+
+**AI Internship**  
+Cognifront  
+`2022`
+
+<br/>
+
+**Data Science Internship**  
+LetsGrowMore  
+`2022`
+
+<br/>
+
+**Ball Badminton**  
+State-Level Winner  
+`2014`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Focus
+
+```text
+AI Systems
+    ↓
+Agentic AI
+    ↓
+LLM Applications
+    ↓
+RAG & Knowledge Systems
+    ↓
+Workflow Automation
+    ↓
+CRM & Enterprise Systems
+    ↓
+Business Transformation
