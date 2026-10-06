@@ -4,9 +4,12 @@
 
 <br/><br/>
 
-<a href="mailto:mayurailead@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="44" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mayurailead@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="44" /></a>
 &nbsp;
 <a href="https://github.com/iayr1"><img src="./assets/btn-github.svg" alt="GitHub" height="44" /></a>
+
+<br/>
+<sub><a href="mailto:mayurailead@gmail.com">mayurailead@gmail.com</a></sub>
 
 <br/><br/>
 
@@ -34,6 +37,6 @@
 
 <br/><br/>
 
-<a href="mailto:mayurailead@gmail.com"><img src="./assets/footer.svg" alt="Contact" width="100%" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mayurailead@gmail.com"><img src="./assets/footer.svg" alt="Contact" width="100%" /></a>
 
 </div>
